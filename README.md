@@ -63,7 +63,7 @@ To upgrade to unsupported Sequoia, there are two paths - 1) spoof to a newer SMB
 
 <ins>BIOS Settings</ins>
 
-Thanks to [hoaug-tran's](https://github.com/hoaug-tran) repo on a similar [Hackintosh setup](https://github.com/hoaug-tran/Optiplex-9020M), I dived into the path of BIOS modding by using tools like UEFIExtract, ifrextract and modGrubShell.
+Thanks to [hoaug-tran's](https://github.com/hoaug-tran) repo on a similar [Hackintosh setup](https://github.com/hoaug-tran/Optiplex-9020M), I dived into the path of BIOS modding by using tools like [UEFITool](https://github.com/longsoft/uefitool), [IFRExtractor](https://github.com/LongSoft/IFRExtractor-RS) and [modGrubShell](https://github.com/datasone/grub-mod-setup_var).
 
 Below are the changes I made:-
 
